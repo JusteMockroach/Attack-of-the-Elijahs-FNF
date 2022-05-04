@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "unamused",
+			"text": "Hmph.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "elijah"
+		},
+		{
+			"expression": "talk",
+			"text": "Aw hell yeah! That song was sick!",
+			"boxState": "normal",
+			"portrait": "Eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "A minor setback.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "elijah"
+		},
+		{
+			"expression": "unamused",
+			"text": "Let's do another one.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "elijah"
+		},
+		{
+			"expression": "cocky",
+			"text": "Okay, sure!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "talk",
+			"text": "I am again going first.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "elijah"
+		},
+		{
+			"expression": "angry",
+			"text": "You better keep up.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "elijah"
+		}
+	]
+}

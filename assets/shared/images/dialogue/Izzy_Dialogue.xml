@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Izzy_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Confused0000" x="10" y="10" width="394" height="444" frameX="0" frameY="0" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="Confused0001" x="10" y="10" width="394" height="444" frameX="0" frameY="0" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="Confused0002" x="414" y="10" width="398" height="440" frameX="-4" frameY="-4" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="Confused0003" x="414" y="10" width="398" height="440" frameX="-4" frameY="-4" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="Confused0004" x="822" y="10" width="398" height="440" frameX="-5" frameY="-4" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="Confused0005" x="822" y="10" width="398" height="440" frameX="-5" frameY="-4" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="Miffed0000" x="1230" y="10" width="394" height="444" frameX="0" frameY="0" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="Miffed0001" x="1230" y="10" width="394" height="444" frameX="0" frameY="0" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="Miffed0002" x="1634" y="10" width="398" height="440" frameX="-4" frameY="-4" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="Miffed0003" x="1634" y="10" width="398" height="440" frameX="-4" frameY="-4" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="Miffed0004" x="10" y="464" width="398" height="440" frameX="-5" frameY="-4" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="Miffed0005" x="10" y="464" width="398" height="440" frameX="-5" frameY="-4" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="Neutral0000" x="418" y="464" width="394" height="444" frameX="0" frameY="0" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="Neutral0001" x="418" y="464" width="394" height="444" frameX="0" frameY="0" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="Neutral0002" x="822" y="464" width="398" height="440" frameX="-4" frameY="-4" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="Neutral0003" x="822" y="464" width="398" height="440" frameX="-4" frameY="-4" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="Neutral0004" x="1230" y="464" width="398" height="440" frameX="-5" frameY="-4" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="Neutral0005" x="1230" y="464" width="398" height="440" frameX="-5" frameY="-4" frameWidth="403" frameHeight="444"/>
+	<SubTexture name="izzyconfused0000" x="1638" y="464" width="399" height="440"/>
+	<SubTexture name="izzyconfused0001" x="1638" y="464" width="399" height="440"/>
+	<SubTexture name="izzymiffed0000" x="10" y="918" width="398" height="440"/>
+	<SubTexture name="izzymiffed0001" x="10" y="918" width="398" height="440"/>
+	<SubTexture name="izzyneutral0000" x="418" y="918" width="399" height="440"/>
+	<SubTexture name="izzyneutral0001" x="418" y="918" width="399" height="440"/>
+</TextureAtlas>

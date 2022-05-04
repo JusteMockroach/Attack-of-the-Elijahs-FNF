@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "shook",
+			"text": "This is a test to see if end dialogue works on a script build.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "hmm",
+			"text": "This is not final dialogue.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "worried",
+			"text": "The actual dialogue will be way more gay.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "talk",
+			"text": "lmao.",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		}
+	]
+}

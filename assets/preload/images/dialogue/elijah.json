@@ -1,0 +1,63 @@
+{
+	"position": [
+		70,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.5,
+	"image": "Elijah_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "elijahneutral",
+			"loop_name": "Neutral"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "unamused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Unamused",
+			"idle_name": "elijahunamused"
+		},
+		{
+			"loop_name": "elijahunamused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "elijahunamused",
+			"anim": "thinking",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "elijahneutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "elijahneutral",
+			"anim": "menacing",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

@@ -691,6 +691,67 @@ class PlayState extends MusicBeatState
 					bg.antialiasing = false;
 					add(bg);
 				}
+			case 'bedroom':
+					var bg = new BGSprite('bedroom', -600, -200, 0.9, 0.9);
+					add(bg);
+	
+			case 'hell':
+					var bg = new BGSprite('BG I guess', -600, -200, 0.9, 0.9);
+					add(bg);
+	
+					var backSpikes = new BGSprite('BG Things', -47.25, -200, 0.9, 0.9);
+					add(backSpikes);
+		
+					var pertrusions = new BGSprite('the got dang uh', -35.45, 352.45, 0.9, 0.9);
+					add(pertrusions);
+					
+					var topSpikes = new BGSprite('Top Spikes', -124.65, -256.85, 0.9, 0.9);
+					add(topSpikes);
+	
+					var fd = new BGSprite('FINAL DESTINATION', 53.9, 827.7, 0.9, 0.9);
+					add(fd);
+		
+					var frontSpikes = new BGSprite('Front Spikes', -15.15, 351.3, 0.9, 0.9);
+					add(frontSpikes);
+
+			case 'topmall':
+					var wall = new BGSprite('mall/Wall', -400, -600, 0.9, 0.9);
+					wall.setGraphicSize(Std.int(wall.width * 1.4));
+					add(wall);
+					
+					upperBoppers = new BGSprite('mall/Upper Boppers', 50, -200, 0.9, 0.9, ['Upper Boppers']);
+					upperBoppers.updateHitbox();
+					add(upperBoppers);
+					
+					var escalators = new BGSprite('mall/Escalators', -300, 88.55, 0.9, 0.9);
+					escalators.setGraphicSize(Std.int(escalators.width * 1.3));
+					add(escalators);
+					
+					var floor = new BGSprite('mall/Floor', -800, 500, 0.9, 0.9);
+					floor.setGraphicSize(Std.int(floor.width * 1.5));
+					add(floor);
+	
+
+			case 'topmall-full':
+					var wall = new BGSprite('mall/Wall', -400, -600, 0.9, 0.9);
+					wall.setGraphicSize(Std.int(wall.width * 1.4));
+					add(wall);
+					
+					upperBoppers = new BGSprite('mall/Upper Boppers', 50, -200, 0.9, 0.9, ['Upper Boppers']);
+					upperBoppers.updateHitbox();
+					add(upperBoppers);
+					
+					var escalators = new BGSprite('mall/Escalators', -300, 88.55, 0.9, 0.9);
+					escalators.setGraphicSize(Std.int(escalators.width * 1.3));
+					add(escalators);
+					
+					var floor = new BGSprite('mall/Floor', -800, 500, 0.9, 0.9);
+					floor.setGraphicSize(Std.int(floor.width * 1.5));
+					add(floor);
+					
+					bottomBoppers = new BGSprite('mall/bottom boppers', -400, -150, 0.9, 0.9, ['Boppers']);
+					add(bottomBoppers);
+
 		}
 
 		if(isPixelStage) {
@@ -1158,6 +1219,15 @@ class PlayState extends MusicBeatState
 				case 'senpai' | 'roses' | 'thorns':
 					if(daSong == 'roses') FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
+					
+				case 'baphomet' | 'eugh' | 'hellish':
+					startDialogue(dialogueJson, 'demon');
+					
+				case 'cursed-slippin' | 'take-over' | 'dense':
+					startDialogue(dialogueJson, 'neko' );
+					
+				case 'rush' | 're-match' | 'ultra' :
+					startDialogue(dialogueJson, 'parappa' );
 
 				default:
 					startCountdown();
@@ -1579,6 +1649,15 @@ class PlayState extends MusicBeatState
 	
 					bottomBoppers.dance(true);
 					santa.dance(true);
+				}
+					
+				if(curStage == 'topmall') {
+					upperBoppers.dance(true);
+				}
+					
+				if(curStage == 'topmall-full') {
+					upperBoppers.dance(true);
+					bottomBoppers.dance(true);
 				}
 
 				switch (swagCounter)
@@ -2373,11 +2452,15 @@ class PlayState extends MusicBeatState
 
 		if (healthBar.percent < 20)
 			iconP1.animation.curAnim.curFrame = 1;
+		else if (healthBar.percent > 80)
+			iconP1.animation.curAnim.curFrame = 2; 
 		else
 			iconP1.animation.curAnim.curFrame = 0;
-
+		
 		if (healthBar.percent > 80)
 			iconP2.animation.curAnim.curFrame = 1;
+		else if (healthBar.percent < 20)
+			iconP2.animation.curAnim.curFrame = 2;
 		else
 			iconP2.animation.curAnim.curFrame = 0;
 
@@ -2540,6 +2623,26 @@ class PlayState extends MusicBeatState
 				if (!daNote.mustPress && daNote.wasGoodHit && !daNote.hitByOpponent && !daNote.ignoreNote)
 				{
 					opponentNoteHit(daNote);
+					
+				switch (dad.curCharacter)
+				{
+					case 'elijah':
+					// he is a demon after all. eases you into the health drain mechanic
+					if (health > 0.016)
+						{ health -= 0.016; } 
+					case 'elijahHELL':
+					// his evolved form has lower health drain cause of how many notes he has. :lol:
+					if (health > 0.014)
+						{ health -= 0.014; } 
+					case 'izzy':
+					// bf type beat. easily beatable but will put up a fight, he is an actual rapper after all
+					if (health > 0.017)
+						{ health -= 0.017; } 
+					case 'eliahs', 'izzymald', 'izzyGUN':
+					// just a friendly lil catboy with 'easy' lil health drain. Izzy gets this health drain when he gets mad cause grr.
+					if (health > 0.018)
+						{ health -= 0.018; } 
+				}
 				}
 
 				if(daNote.mustPress && cpuControlled) {
@@ -3761,6 +3864,7 @@ class PlayState extends MusicBeatState
 			var animToPlay:String = singAnimations[Std.int(Math.abs(daNote.noteData))] + 'miss' + daAlt;
 			char.playAnim(animToPlay, true);
 		}
+		
 
 		callOnLuas('noteMiss', [notes.members.indexOf(daNote), daNote.noteData, daNote.noteType, daNote.isSustainNote]);
 	}
@@ -4294,7 +4398,14 @@ class PlayState extends MusicBeatState
 
 				if(heyTimer <= 0) bottomBoppers.dance(true);
 				santa.dance(true);
-
+				
+			case 'topmall':	
+				upperBoppers.dance(true);
+				
+			case 'topmall-full':
+				upperBoppers.dance(true);
+				bottomBoppers.dance(true);
+				
 			case 'limo':
 				if(!ClientPrefs.lowQuality) {
 					grpLimoDancers.forEach(function(dancer:BackgroundDancer)

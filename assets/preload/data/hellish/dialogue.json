@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "shook",
+			"text": "Shit.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "hmm",
+			"text": "Okay Eli, you got this. You've handled worse.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "worried",
+			"text": "Just gotta endure this onslaught and you'll be outta here...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "sad",
+			"text": "I hope.",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		}
+	]
+}

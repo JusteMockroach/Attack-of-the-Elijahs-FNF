@@ -1,22 +1,48 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "A baphomet's hellfire",
+	"hideFreeplay": false,
+	"weekBackground": "elijah",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
 	"startUnlocked": true,
-
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Baphomet",
+			"elijah",
+			[
+				175,
+				6,
+				6
+			]
+		],
+		[
+			"Eugh",
+			"elijah",
+			[
+				175,
+				6,
+				6
+			]
+		],
+		[
+			"Hellish",
+			"elijahHELL",
+			[
+				255,
+				34,
+				138
+			]
+		]
+	],
+	"weekName": "Week 1"
 }

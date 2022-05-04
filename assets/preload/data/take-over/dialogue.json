@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"expression": "shook",
+			"text": "Shit, dude...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "awe",
+			"text": "You rap at like, a mile per second!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "sorry",
+			"text": "Haha, thanks.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eliahs"
+		},
+		{
+			"expression": "talk",
+			"text": "I saw Whitty rap against that one guy...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eliahs"
+		},
+		{
+			"expression": "scared",
+			"text": "'Boyfriend' I think?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eliahs"
+		},
+		{
+			"expression": "talk",
+			"text": "It's how I learned to rap!",
+			"boxState": "normal",
+			"portrait": "eliahs",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Oh yeah! I heard about that one too.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "sad",
+			"text": "Kind of a shame that he gave his farewell tour a while after that...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "sorry",
+			"text": "Yeah, but that's where I got this necklace from.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eliahs"
+		},
+		{
+			"expression": "chill",
+			"text": "Got the last one before they sold out!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eliahs"
+		},
+		{
+			"expression": "talk",
+			"text": "That's cool!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "menacing",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "DF"
+		},
+		{
+			"expression": "talk",
+			"text": "I think Elijah wants us to keep going. You up for another song?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "talk",
+			"text": "Sure! I'm down for another.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eliahs"
+		}
+	]
+}

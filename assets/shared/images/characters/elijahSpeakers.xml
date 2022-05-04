@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="elijahSpeakers.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing Beat ELIJAH only0000" x="10" y="10" width="855" height="974" frameX="0" frameY="-31" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0001" x="875" y="10" width="855" height="976" frameX="0" frameY="-29" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0002" x="1740" y="10" width="850" height="978" frameX="-2" frameY="-27" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0003" x="2600" y="10" width="850" height="980" frameX="-2" frameY="-25" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0004" x="3460" y="10" width="850" height="986" frameX="-2" frameY="-19" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0005" x="4320" y="10" width="850" height="988" frameX="-2" frameY="-17" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0006" x="5180" y="10" width="850" height="992" frameX="-2" frameY="-13" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0007" x="6040" y="10" width="850" height="995" frameX="-2" frameY="-10" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0008" x="6900" y="10" width="850" height="1000" frameX="-2" frameY="-5" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0009" x="10" y="1020" width="850" height="1002" frameX="-2" frameY="-3" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0010" x="870" y="1020" width="850" height="1005" frameX="-2" frameY="0" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0011" x="870" y="1020" width="850" height="1005" frameX="-2" frameY="0" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0012" x="1730" y="1020" width="850" height="1005" frameX="-2" frameY="0" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0013" x="1730" y="1020" width="850" height="1005" frameX="-2" frameY="0" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0014" x="1730" y="1020" width="850" height="1005" frameX="-2" frameY="0" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0015" x="2590" y="1020" width="855" height="999" frameX="0" frameY="-6" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0016" x="3455" y="1020" width="855" height="997" frameX="0" frameY="-8" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0017" x="4320" y="1020" width="850" height="994" frameX="-2" frameY="-11" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0018" x="5180" y="1020" width="850" height="991" frameX="-2" frameY="-14" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0019" x="6040" y="1020" width="850" height="992" frameX="-2" frameY="-13" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0020" x="6900" y="1020" width="850" height="989" frameX="-2" frameY="-16" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0021" x="10" y="2035" width="850" height="989" frameX="-2" frameY="-16" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0022" x="870" y="2035" width="850" height="986" frameX="-2" frameY="-19" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0023" x="1730" y="2035" width="850" height="986" frameX="-2" frameY="-19" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0024" x="2590" y="2035" width="850" height="984" frameX="-2" frameY="-21" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0025" x="3450" y="2035" width="850" height="981" frameX="-2" frameY="-24" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0026" x="3450" y="2035" width="850" height="981" frameX="-2" frameY="-24" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0027" x="4310" y="2035" width="850" height="982" frameX="-2" frameY="-23" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0028" x="4310" y="2035" width="850" height="982" frameX="-2" frameY="-23" frameWidth="855" frameHeight="1005"/>
+	<SubTexture name="GF Dancing Beat ELIJAH only0029" x="4310" y="2035" width="850" height="982" frameX="-2" frameY="-23" frameWidth="855" frameHeight="1005"/>
+</TextureAtlas>

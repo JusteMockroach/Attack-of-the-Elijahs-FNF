@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "scared",
+			"text": "Oh! Haha...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eliahs"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eliahs",
+			"boxState": "normal",
+			"expression": "scared",
+			"text": "There sure are a lotta people here..."
+		},
+		{
+			"expression": "talk",
+			"text": "Huh? Why would that be a problem?",
+			"boxState": "normal",
+			"speed": 0.09,
+			"portrait": "eli"
+		},
+		{
+			"expression": "scared",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eliahs"
+		},
+		{
+			"expression": "unamused",
+			"text": "The 'catboy' has stage fright.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "df"
+		},
+		{
+			"expression": "talk",
+			"text": "Eli, why don't you take the lead.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "df"
+		},
+		{
+			"expression": "talk",
+			"text": "Uh, okay! Sure!",
+			"boxState": "normal",
+			"speed": 0.09,
+			"portrait": "eli"
+		},
+		{
+			"expression": "talk",
+			"text": "I'll go a bit slower for you, is that okay?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eliahs",
+			"boxState": "normal",
+			"expression": "sorry",
+			"text": "Y-yeah, thats fine..."
+		}
+	]
+}

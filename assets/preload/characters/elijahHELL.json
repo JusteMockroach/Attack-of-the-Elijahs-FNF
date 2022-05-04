@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				580,
+				620
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				537,
+				613
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				489,
+				456
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				575,
+				628
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				514,
+				614
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/elijahHELL",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "elijahHELL",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		34,
+		138
+	],
+	"camera_position": [
+		-410,
+		-540
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

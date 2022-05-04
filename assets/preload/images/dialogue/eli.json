@@ -1,0 +1,115 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		60,
+		60
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				-1
+			],
+			"idle_offsets": [
+				0,
+				-1
+			],
+			"loop_name": "Happy",
+			"idle_name": "elihappy"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "elisad",
+			"loop_name": "Sad"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "eliangry",
+			"loop_name": "Angry"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "hmm",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "eli???",
+			"loop_name": "???"
+		},
+		{
+			"loop_name": "Worried",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "eliworried",
+			"anim": "worried",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Shook",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "elishook",
+			"anim": "shook",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Cocky",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "elicocky",
+			"anim": "cocky",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Awestruck",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "eliawestruck",
+			"anim": "awe",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Eli_Dialogue"
+}

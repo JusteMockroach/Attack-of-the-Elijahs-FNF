@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		-50,
+		90
+	],
+	"scale": 1.4,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				2,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				0
+			],
+			"loop_name": "Neutral",
+			"idle_name": "eliahsneutral"
+		},
+		{
+			"loop_offsets": [
+				3,
+				0
+			],
+			"anim": "chill",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Chill",
+			"idle_name": "eliahschill"
+		},
+		{
+			"loop_offsets": [
+				3,
+				0
+			],
+			"anim": "sorry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Sorry",
+			"idle_name": "eliahssorry"
+		},
+		{
+			"loop_name": "Scared",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "eliahsscared",
+			"anim": "scared",
+			"loop_offsets": [
+				4,
+				0
+			]
+		}
+	],
+	"image": "Eliahs_Dialogue"
+}

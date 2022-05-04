@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Eli_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="???0000" x="10" y="10" width="471" height="419" frameX="-10" frameY="-2" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="???0001" x="10" y="10" width="471" height="419" frameX="-10" frameY="-2" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="???0002" x="491" y="10" width="473" height="420" frameX="-2" frameY="-1" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="???0003" x="491" y="10" width="473" height="420" frameX="-2" frameY="-1" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="???0004" x="974" y="10" width="474" height="421" frameX="0" frameY="0" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="???0005" x="974" y="10" width="474" height="421" frameX="0" frameY="0" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Angry0000" x="1458" y="10" width="471" height="419" frameX="-10" frameY="-2" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Angry0001" x="1458" y="10" width="471" height="419" frameX="-10" frameY="-2" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Angry0002" x="1939" y="10" width="473" height="420" frameX="-2" frameY="-1" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Angry0003" x="1939" y="10" width="473" height="420" frameX="-2" frameY="-1" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Angry0004" x="2422" y="10" width="474" height="421" frameX="0" frameY="0" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Angry0005" x="2422" y="10" width="474" height="421" frameX="0" frameY="0" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Awestruck0000" x="2906" y="10" width="471" height="419" frameX="-10" frameY="-2" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Awestruck0001" x="3387" y="10" width="471" height="419" frameX="-10" frameY="-2" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Awestruck0002" x="10" y="441" width="473" height="420" frameX="-2" frameY="-1" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Awestruck0003" x="493" y="441" width="473" height="420" frameX="-2" frameY="-1" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Awestruck0004" x="976" y="441" width="474" height="421" frameX="0" frameY="0" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Awestruck0005" x="1460" y="441" width="474" height="421" frameX="0" frameY="0" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Cocky0000" x="1944" y="441" width="471" height="419" frameX="-10" frameY="-2" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Cocky0001" x="1944" y="441" width="471" height="419" frameX="-10" frameY="-2" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Cocky0002" x="2425" y="441" width="473" height="420" frameX="-2" frameY="-1" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Cocky0003" x="2425" y="441" width="473" height="420" frameX="-2" frameY="-1" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Cocky0004" x="2908" y="441" width="474" height="421" frameX="0" frameY="0" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Cocky0005" x="2908" y="441" width="474" height="421" frameX="0" frameY="0" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Happy0000" x="3392" y="441" width="471" height="419" frameX="-10" frameY="-2" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Happy0001" x="3392" y="441" width="471" height="419" frameX="-10" frameY="-2" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Happy0002" x="10" y="872" width="473" height="420" frameX="-2" frameY="-1" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Happy0003" x="10" y="872" width="473" height="420" frameX="-2" frameY="-1" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Happy0004" x="1458" y="1303" width="474" height="421"/>
+	<SubTexture name="Happy0005" x="1458" y="1303" width="474" height="421"/>
+	<SubTexture name="Sad0000" x="493" y="872" width="471" height="419" frameX="-10" frameY="-2" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Sad0001" x="493" y="872" width="471" height="419" frameX="-10" frameY="-2" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Sad0002" x="974" y="872" width="473" height="420" frameX="-2" frameY="-1" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Sad0003" x="974" y="872" width="473" height="420" frameX="-2" frameY="-1" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Sad0004" x="1942" y="1303" width="474" height="421"/>
+	<SubTexture name="Sad0005" x="1942" y="1303" width="474" height="421"/>
+	<SubTexture name="Shook0000" x="1457" y="872" width="471" height="419" frameX="-10" frameY="-2" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Shook0001" x="1938" y="872" width="471" height="419" frameX="-10" frameY="-2" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Shook0002" x="2419" y="872" width="473" height="420" frameX="-3" frameY="-1" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Shook0003" x="2902" y="872" width="473" height="420" frameX="-3" frameY="-1" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Shook0004" x="3385" y="872" width="474" height="421" frameX="0" frameY="0" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Shook0005" x="10" y="1303" width="474" height="421" frameX="0" frameY="0" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Worried0000" x="494" y="1303" width="471" height="419" frameX="-10" frameY="-2" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Worried0001" x="494" y="1303" width="471" height="419" frameX="-10" frameY="-2" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Worried0002" x="975" y="1303" width="473" height="420" frameX="-2" frameY="-1" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Worried0003" x="975" y="1303" width="473" height="420" frameX="-2" frameY="-1" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="Worried0004" x="10" y="1734" width="474" height="421"/>
+	<SubTexture name="Worried0005" x="10" y="1734" width="474" height="421"/>
+	<SubTexture name="eli???0000" x="974" y="10" width="474" height="421" frameX="0" frameY="0" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="eliangry0000" x="2422" y="10" width="474" height="421" frameX="0" frameY="0" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="eliawestruck0000" x="976" y="441" width="474" height="421" frameX="0" frameY="0" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="eliawestruck0001" x="1460" y="441" width="474" height="421" frameX="0" frameY="0" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="elicocky0000" x="2908" y="441" width="474" height="421" frameX="0" frameY="0" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="elicocky0001" x="2908" y="441" width="474" height="421" frameX="0" frameY="0" frameWidth="481" frameHeight="421"/>
+	<SubTexture name="elihappy0000" x="1458" y="1303" width="474" height="421"/>
+	<SubTexture name="elisad0000" x="1942" y="1303" width="474" height="421"/>
+	<SubTexture name="elishook0000" x="2426" y="1303" width="474" height="421"/>
+	<SubTexture name="elishook0001" x="2910" y="1303" width="474" height="421"/>
+	<SubTexture name="elishook0002" x="3394" y="1303" width="474" height="421"/>
+	<SubTexture name="eliworried0000" x="10" y="1734" width="474" height="421"/>
+</TextureAtlas>

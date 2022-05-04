@@ -1,0 +1,61 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "limo",
+		"player1": "bf-eliv2",
+		"player2": "eliahs",
+		"player3": null,
+		"events": [
+			[
+				52965.5172413793,
+				[
+					[
+						"Set GF Speed",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				66206.8965517241,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				79448.2758620689,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				92689.6551724137,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-df",
+		"bpm": 145,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Scratchin"
+	}
+}

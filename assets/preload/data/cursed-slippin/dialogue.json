@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Heh.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "izzy"
+		},
+		{
+			"expression": "awe",
+			"text": "That was awesome, dude!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "unamused",
+			"text": "Thanks, but...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "izzy"
+		},
+		{
+			"expression": "confused",
+			"text": "I gotta head off now, C'mon Eliahs.",
+			"boxState": "normal",
+			"portrait": "izzy",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "Actually, I'll catch up with you later. I wanna chill with these guys for a bit.",
+			"boxState": "normal",
+			"portrait": "eliahs",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "A'ight man. See you.",
+			"boxState": "normal",
+			"portrait": "izzy",
+			"speed": 0.05
+		},
+		{
+			"expression": "chill",
+			"text": "Hey, your rapping wasn't that bad earlier.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eliahs"
+		},
+		{
+			"expression": "talk",
+			"text": "thanks, man.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "talk",
+			"text": "I've got some time to kill, you wanna rap with me?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eliahs"
+		},
+		{
+			"expression": "hmm",
+			"text": "W-well... I don't know if Elijah would want me to stick ar-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "talk",
+			"text": "Do it.",
+			"boxState": "normal",
+			"portrait": "DF",
+			"speed": 0.05
+		},
+		{
+			"expression": "unamused",
+			"text": "This 'catboy' is of no threat to you.",
+			"boxState": "normal",
+			"portrait": "df",
+			"speed": 0.05
+		},
+		{
+			"expression": "shook",
+			"text": "I wasn't asking about that, but uh...",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "You heard him! Let's rap for a few!",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		}
+	]
+}

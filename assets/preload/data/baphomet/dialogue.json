@@ -1,0 +1,158 @@
+{
+	"dialogue": [
+		{
+			"expression": "sad",
+			"text": "D-did it work?",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.04
+		},
+		{
+			"expression": "menacing",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "elijah",
+			"speed": 0.4
+		},
+		{
+			"expression": "shook",
+			"text": "yooooo...",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.04
+		},
+		{
+			"expression": "awe",
+			"text": "YOOOOOOOOOOOOOOOOOOOOOO!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "talk",
+			"text": "Holy shit it worked!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "talk",
+			"text": "What do you want.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "elijah"
+		},
+		{
+			"expression": "unamused",
+			"text": "I have a very limited amount of time here on the mortal realm.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "elijah"
+		},
+		{
+			"expression": "talk",
+			"text": "And you are wasting it.",
+			"boxState": "normal",
+			"speed": 0.0999999999999999,
+			"portrait": "elijah"
+		},
+		{
+			"expression": "talk",
+			"text": "I want you to rap with me.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "talk",
+			"text": "It's for my upcoming album.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "unamused",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "elijah"
+		},
+		{
+			"expression": "angry",
+			"text": "I'd rather die again than deal with some stupid rapper's pipe dream.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "elijah"
+		},
+		{
+			"expression": "cocky",
+			"text": "C'mon! I'll make it fun for you!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "talk",
+			"text": "If I win, I, Eli, get some cool ass songs and a selling point.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And If you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Uh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "elijah",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "Elijah."
+		},
+		{
+			"expression": "worried",
+			"text": "But if you win, Elijah, you can have my soul!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "cocky",
+			"text": "That's an irresistable deal!"
+		},
+		{
+			"expression": "unamused",
+			"text": "You are unbearably stupid.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "elijah"
+		},
+		{
+			"expression": "talk",
+			"text": "But a soul is a soul. I accept your offer.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "elijah"
+		},
+		{
+			"expression": "unamused",
+			"text": "I'll be taking the lead.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "elijah"
+		}
+	]
+}

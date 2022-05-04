@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		70,
+		50
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Neutral",
+			"idle_name": "elijahneutral"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "unamused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "elijahunamused",
+			"loop_name": "Unamused"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "thinking",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "elijahunamused",
+			"idle_name": "elijahunamused"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "menacing",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "elijahneutral",
+			"idle_name": "elijahneutral"
+		}
+	],
+	"image": "DF_Dialogue"
+}

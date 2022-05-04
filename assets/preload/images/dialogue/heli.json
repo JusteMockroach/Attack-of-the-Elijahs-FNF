@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		10,
+		-20
+	],
+	"scale": 1.6,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				9,
+				1
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "!",
+			"idle_name": "..."
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				9,
+				1
+			],
+			"idle_name": "...",
+			"loop_name": "?"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "like",
+			"loop_offsets": [
+				9,
+				1
+			],
+			"idle_name": "...",
+			"loop_name": "<3"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "crossed",
+			"loop_offsets": [
+				9,
+				1
+			],
+			"idle_name": "crossed",
+			"loop_name": "xtxt"
+		}
+	],
+	"image": "Heli_Dialogue"
+}

@@ -1,0 +1,50 @@
+{
+	"position": [
+		70,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.4,
+	"image": "Izzy_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-4,
+				-3
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "izzyneutral",
+			"loop_name": "Neutral"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-4,
+				-3
+			],
+			"loop_name": "Confused",
+			"idle_name": "izzyconfused"
+		},
+		{
+			"loop_name": "Miffed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "izzymiffed",
+			"anim": "stern",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

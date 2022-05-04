@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "stage",
+		"player1": "bf-eliv2",
+		"player2": "izzy",
+		"player3": null,
+		"events": [
+			[
+				34909.0909090909,
+				[
+					[
+						"Change Character",
+						"dad",
+						"izzymald"
+					]
+				]
+			],
+			[
+				46545.4545454546,
+				[
+					[
+						"Change Character",
+						"dad",
+						"izzy"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Hey!",
+						"3",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-catdf",
+		"bpm": 165,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Re-Match"
+	}
+}

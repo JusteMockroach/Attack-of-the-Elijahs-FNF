@@ -1,22 +1,41 @@
 {
-	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
+	"storyName": "rapper's respite",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "izzy",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"pico",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "philly",
-
-	"storyName": "PICO",
-	"weekBefore": "week2",
-	"weekName": "Week 3",
 	"startUnlocked": true,
-
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"songs": [
+		[
+			"Re-Match",
+			"izzy",
+			[
+				106,
+				0,
+				113
+			]
+		],
+		[
+			"Ultra",
+			"izzymald",
+			[
+				106,
+				0,
+				113
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "rapbattle"
 }

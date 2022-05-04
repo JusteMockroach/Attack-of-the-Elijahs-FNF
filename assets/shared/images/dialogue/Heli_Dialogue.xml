@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Heli_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="!0000" x="10" y="10" width="545" height="564" frameX="0" frameY="-18" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="!0001" x="565" y="10" width="545" height="558" frameX="0" frameY="-24" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="!0002" x="1120" y="10" width="541" height="564" frameX="-6" frameY="-18" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="!0003" x="1671" y="10" width="541" height="580" frameX="-6" frameY="-2" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="!0004" x="2222" y="10" width="539" height="572" frameX="-8" frameY="-10" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="!0005" x="2771" y="10" width="539" height="563" frameX="-8" frameY="-19" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="!0006" x="3320" y="10" width="538" height="566" frameX="-9" frameY="-16" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="!0007" x="10" y="600" width="538" height="582" frameX="-9" frameY="0" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="...0000" x="558" y="600" width="539" height="566" frameX="0" frameY="-16" frameWidth="539" frameHeight="582"/>
+	<SubTexture name="...0001" x="1107" y="600" width="539" height="582"/>
+	<SubTexture name="...0002" x="1656" y="600" width="539" height="572" frameX="0" frameY="-10" frameWidth="539" frameHeight="582"/>
+	<SubTexture name="...0003" x="2205" y="600" width="539" height="563" frameX="0" frameY="-19" frameWidth="539" frameHeight="582"/>
+	<SubTexture name="<30000" x="2754" y="600" width="545" height="564" frameX="0" frameY="-18" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="<30001" x="3309" y="600" width="545" height="558" frameX="0" frameY="-24" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="<30002" x="10" y="1192" width="541" height="564" frameX="-6" frameY="-18" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="<30003" x="561" y="1192" width="541" height="580" frameX="-6" frameY="-2" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="<30004" x="1112" y="1192" width="539" height="572" frameX="-8" frameY="-10" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="<30005" x="1661" y="1192" width="539" height="563" frameX="-8" frameY="-19" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="<30006" x="3320" y="10" width="538" height="566" frameX="-9" frameY="-16" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="<30007" x="10" y="600" width="538" height="582" frameX="-9" frameY="0" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="?0000" x="2210" y="1192" width="545" height="564" frameX="0" frameY="-18" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="?0001" x="2765" y="1192" width="545" height="558" frameX="0" frameY="-24" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="?0002" x="3320" y="1192" width="541" height="564" frameX="-6" frameY="-18" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="?0003" x="10" y="1782" width="541" height="580" frameX="-6" frameY="-2" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="?0004" x="561" y="1782" width="539" height="572" frameX="-8" frameY="-10" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="?0005" x="1110" y="1782" width="539" height="563" frameX="-8" frameY="-19" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="?0006" x="3320" y="10" width="538" height="566" frameX="-9" frameY="-16" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="?0007" x="10" y="600" width="538" height="582" frameX="-9" frameY="0" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="crossed0000" x="1659" y="1782" width="539" height="566" frameX="0" frameY="-16" frameWidth="539" frameHeight="582"/>
+	<SubTexture name="crossed0001" x="2208" y="1782" width="539" height="582"/>
+	<SubTexture name="crossed0002" x="2757" y="1782" width="539" height="572" frameX="0" frameY="-10" frameWidth="539" frameHeight="582"/>
+	<SubTexture name="crossed0003" x="3306" y="1782" width="539" height="563" frameX="0" frameY="-19" frameWidth="539" frameHeight="582"/>
+	<SubTexture name="xtxt0000" x="10" y="2374" width="545" height="564" frameX="0" frameY="-18" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="xtxt0001" x="565" y="2374" width="545" height="558" frameX="0" frameY="-24" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="xtxt0002" x="1120" y="2374" width="541" height="564" frameX="-6" frameY="-18" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="xtxt0003" x="1671" y="2374" width="541" height="580" frameX="-6" frameY="-2" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="xtxt0004" x="2222" y="2374" width="539" height="572" frameX="-8" frameY="-10" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="xtxt0005" x="2771" y="2374" width="539" height="563" frameX="-8" frameY="-19" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="xtxt0006" x="3320" y="2374" width="538" height="566" frameX="-9" frameY="-16" frameWidth="547" frameHeight="582"/>
+	<SubTexture name="xtxt0007" x="10" y="2964" width="538" height="582" frameX="-9" frameY="0" frameWidth="547" frameHeight="582"/>
+</TextureAtlas>

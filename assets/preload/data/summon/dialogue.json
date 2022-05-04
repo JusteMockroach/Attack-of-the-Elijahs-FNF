@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright! This album's coming along pretty good!"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "hmm",
+			"text": "But...It still needs something...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "awe",
+			"text": "Oh I know! It needs features!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "cocky",
+			"text": "I know exactly what I gotta do!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hope this summoning doesn't require me to just say it..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That'd suck."
+		}
+	]
+}

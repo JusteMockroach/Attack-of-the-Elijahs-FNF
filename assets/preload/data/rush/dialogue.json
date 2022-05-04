@@ -1,0 +1,158 @@
+{
+	"dialogue": [
+		{
+			"expression": "hmm",
+			"text": "So, what did we need exactly?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "talk",
+			"text": "I know you wanted more food.",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "hmm",
+			"text": "because you ate all of what I had at the apartment...",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "unamused",
+			"text": "I need more clothes.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "DF"
+		},
+		{
+			"expression": "unamused",
+			"text": "Your closet sucks, it's filled with your horrid merch.",
+			"boxState": "normal",
+			"portrait": "DF",
+			"speed": 0.05
+		},
+		{
+			"expression": "angry",
+			"text": "If it's so shitty then why-",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "shook",
+			"text": "Wait hold on.",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "awe",
+			"text": "IS THAT YUNG B.A.T??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "unamused",
+			"text": "Who?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "DF"
+		},
+		{
+			"expression": "angry",
+			"text": "Dude shut up shut up Imma talk to him.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "awe",
+			"text": "YO YUNG B.A.T!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "confused",
+			"text": "Huh?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "izzy"
+		},
+		{
+			"expression": "awe",
+			"text": "Dude I'm like, your biggest fan!",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Can you please rap battle with me real quick?",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "sorry",
+			"text": "Sorry, but Iz- I mean Yung B.A.T doesn't do rap bat-",
+			"boxState": "normal",
+			"portrait": "eliahs",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "Wait, shut it Eliahs.",
+			"boxState": "normal",
+			"portrait": "izzy",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Sure pipsqueak, I'll take you on.",
+			"boxState": "normal",
+			"portrait": "izzy",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Sick!! I'm gonna school your ass!",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "sorry",
+			"text": "Hey do you mind if i sit here?",
+			"boxState": "normal",
+			"portrait": "eliahs",
+			"speed": 0.05
+		},
+		{
+			"expression": "demon",
+			"text": "I do.",
+			"boxState": "normal",
+			"portrait": "df",
+			"speed": 0.05
+		},
+		{
+			"expression": "unamused",
+			"text": "But seeing as there's nowhere else to sit, you can relax for the time being.",
+			"boxState": "normal",
+			"portrait": "df",
+			"speed": 0.05
+		},
+		{
+			"expression": "scared",
+			"text": "T-thanks...",
+			"boxState": "normal",
+			"portrait": "eliahs",
+			"speed": 0.05
+		}
+	]
+}

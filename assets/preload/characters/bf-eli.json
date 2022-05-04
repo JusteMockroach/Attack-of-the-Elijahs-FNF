@@ -1,0 +1,170 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				245
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				230
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MissLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				223
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MissRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				283
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				177
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MissDown",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				246
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Died Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				247
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Revival",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				52,
+				224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-64,
+				280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				152
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				245
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				8,
+				9,
+				10
+			],
+			"name": "IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				246
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "DEATH",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eli_assets",
+	"position": [
+		0,
+		360
+	],
+	"healthicon": "eli",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-40,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}
