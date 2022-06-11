@@ -218,6 +218,8 @@ class PlayState extends MusicBeatState
 	var bgGirls:BackgroundGirls;
 	var wiggleShit:WiggleEffect = new WiggleEffect();
 	var bgGhouls:BGSprite;
+	
+	var backWall:BGSprite;
 
 	public var songScore:Int = 0;
 	public var songHits:Int = 0;
@@ -751,6 +753,15 @@ class PlayState extends MusicBeatState
 					
 					bottomBoppers = new BGSprite('mall/bottom boppers', -400, -150, 0.9, 0.9, ['Boppers']);
 					add(bottomBoppers);
+	
+
+			case 'IzzyStage':
+					var floor = new BGSprite('stage/The Big Stage', -208.55, 11.2, 0.5, 0.5);
+					add(floor);
+					
+					backWall = new BGSprite('stage/BackWall', -400, -150, 0.9, 0.9, ['Wall instance 1']);
+					backWall.updateHitbox();
+					add(backWall);
 
 		}
 
@@ -1658,6 +1669,10 @@ class PlayState extends MusicBeatState
 				if(curStage == 'topmall-full') {
 					upperBoppers.dance(true);
 					bottomBoppers.dance(true);
+				}
+					
+				if(curStage == 'IzzyStage') {
+					backWall.dance(true);
 				}
 
 				switch (swagCounter)
@@ -4405,6 +4420,9 @@ class PlayState extends MusicBeatState
 			case 'topmall-full':
 				upperBoppers.dance(true);
 				bottomBoppers.dance(true);
+				
+			case 'IzzyStage':
+				backWall.dance(true);
 				
 			case 'limo':
 				if(!ClientPrefs.lowQuality) {

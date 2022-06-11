@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="IzzyPillar.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pillar1 instance 10000" x="10" y="10" width="1241" height="2461"/>
+	<SubTexture name="Pillar1 instance 10001" x="10" y="10" width="1241" height="2461"/>
+	<SubTexture name="Pillar1 instance 10002" x="1261" y="10" width="1241" height="2461"/>
+	<SubTexture name="Pillar1 instance 10003" x="1261" y="10" width="1241" height="2461"/>
+	<SubTexture name="Pillar1 instance 10004" x="2512" y="10" width="1241" height="2461"/>
+	<SubTexture name="Pillar1 instance 10005" x="2512" y="10" width="1241" height="2461"/>
+	<SubTexture name="Pillar1 instance 10006" x="3763" y="10" width="1241" height="2461"/>
+	<SubTexture name="Pillar1 instance 10007" x="3763" y="10" width="1241" height="2461"/>
+	<SubTexture name="Pillar1 instance 10008" x="10" y="10" width="1241" height="2461"/>
+	<SubTexture name="Pillar1 instance 10009" x="10" y="10" width="1241" height="2461"/>
+</TextureAtlas>

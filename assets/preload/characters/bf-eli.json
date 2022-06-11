@@ -146,15 +146,48 @@
 			"fps": 24,
 			"name": "DEATH",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				243
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Hey!",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				218
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hurt",
+			"loop": false,
+			"name": "HIT!!"
+		},
+		{
+			"offsets": [
+				7,
+				234
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "DODGE!!"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/eli_assets",
+	"image": "characters/eli_v2",
 	"position": [
 		0,
 		360
 	],
-	"healthicon": "eli",
+	"healthicon": "eli2",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,

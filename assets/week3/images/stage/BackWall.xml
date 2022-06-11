@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BackWall.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Wall instance 10000" x="10" y="10" width="4322" height="2014"/>
+	<SubTexture name="Wall instance 10001" x="10" y="10" width="4322" height="2014"/>
+	<SubTexture name="Wall instance 10002" x="10" y="2034" width="4322" height="2014"/>
+	<SubTexture name="Wall instance 10003" x="10" y="2034" width="4322" height="2014"/>
+	<SubTexture name="Wall instance 10004" x="10" y="4058" width="4322" height="2014"/>
+	<SubTexture name="Wall instance 10005" x="10" y="4058" width="4322" height="2014"/>
+	<SubTexture name="Wall instance 10006" x="10" y="6082" width="4322" height="2014"/>
+	<SubTexture name="Wall instance 10007" x="10" y="6082" width="4322" height="2014"/>
+	<SubTexture name="Wall instance 10008" x="10" y="10" width="4322" height="2014"/>
+	<SubTexture name="Wall instance 10009" x="10" y="10" width="4322" height="2014"/>
+</TextureAtlas>

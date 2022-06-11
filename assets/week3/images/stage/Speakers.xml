@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Speakers.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BumpinSpeakers instance 10000" x="10" y="10" width="5174" height="737" frameX="-20" frameY="-133" frameWidth="5214" frameHeight="870"/>
+	<SubTexture name="BumpinSpeakers instance 10001" x="10" y="10" width="5174" height="737" frameX="-20" frameY="-133" frameWidth="5214" frameHeight="870"/>
+	<SubTexture name="BumpinSpeakers instance 10002" x="10" y="757" width="5132" height="682" frameX="-41" frameY="-188" frameWidth="5214" frameHeight="870"/>
+	<SubTexture name="BumpinSpeakers instance 10003" x="10" y="757" width="5132" height="682" frameX="-41" frameY="-188" frameWidth="5214" frameHeight="870"/>
+	<SubTexture name="BumpinSpeakers instance 10004" x="10" y="1449" width="5214" height="870"/>
+	<SubTexture name="BumpinSpeakers instance 10005" x="10" y="1449" width="5214" height="870"/>
+	<SubTexture name="BumpinSpeakers instance 10006" x="10" y="2329" width="5184" height="771" frameX="-15" frameY="-99" frameWidth="5214" frameHeight="870"/>
+	<SubTexture name="BumpinSpeakers instance 10007" x="10" y="2329" width="5184" height="771" frameX="-15" frameY="-99" frameWidth="5214" frameHeight="870"/>
+	<SubTexture name="BumpinSpeakers instance 10008" x="10" y="10" width="5174" height="737" frameX="-20" frameY="-133" frameWidth="5214" frameHeight="870"/>
+	<SubTexture name="BumpinSpeakers instance 10009" x="10" y="10" width="5174" height="737" frameX="-20" frameY="-133" frameWidth="5214" frameHeight="870"/>
+</TextureAtlas>
