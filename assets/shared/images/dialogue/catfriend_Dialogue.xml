@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="catfriend_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Chill0000" x="4" y="4" width="467" height="462"/>
+	<SubTexture name="Chill0001" x="4" y="4" width="467" height="462"/>
+	<SubTexture name="Chill0002" x="475" y="4" width="460" height="462" frameX="-4" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="Chill0003" x="475" y="4" width="460" height="462" frameX="-4" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="Chill0004" x="939" y="4" width="458" height="462" frameX="-5" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="Chill0005" x="939" y="4" width="458" height="462" frameX="-5" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="Neutral0000" x="1401" y="4" width="467" height="462"/>
+	<SubTexture name="Neutral0001" x="1401" y="4" width="467" height="462"/>
+	<SubTexture name="Neutral0002" x="4" y="470" width="460" height="462" frameX="-4" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="Neutral0003" x="4" y="470" width="460" height="462" frameX="-4" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="Neutral0004" x="468" y="470" width="458" height="462" frameX="-5" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="Neutral0005" x="468" y="470" width="458" height="462" frameX="-5" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="Sorry0000" x="930" y="470" width="467" height="462"/>
+	<SubTexture name="Sorry0001" x="930" y="470" width="467" height="462"/>
+	<SubTexture name="Sorry0002" x="1401" y="470" width="460" height="462" frameX="-4" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="Sorry0003" x="1401" y="470" width="460" height="462" frameX="-4" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="Sorry0004" x="4" y="936" width="458" height="462" frameX="-5" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="Sorry0005" x="4" y="936" width="458" height="462" frameX="-5" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="eliahschill0000" x="466" y="936" width="458" height="462"/>
+	<SubTexture name="eliahschill0001" x="466" y="936" width="458" height="462"/>
+	<SubTexture name="eliahsneutral0000" x="928" y="936" width="458" height="462"/>
+	<SubTexture name="eliahsneutral0001" x="928" y="936" width="458" height="462"/>
+	<SubTexture name="eliahsscared0000" x="1390" y="936" width="458" height="462"/>
+	<SubTexture name="eliahsscared0001" x="1390" y="936" width="458" height="462"/>
+	<SubTexture name="eliahssorry0000" x="4" y="1402" width="458" height="462"/>
+	<SubTexture name="eliahssorry0001" x="4" y="1402" width="458" height="462"/>
+	<SubTexture name="scared0000" x="466" y="1402" width="467" height="462"/>
+	<SubTexture name="scared0001" x="466" y="1402" width="467" height="462"/>
+	<SubTexture name="scared0002" x="937" y="1402" width="460" height="462" frameX="-4" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="scared0003" x="937" y="1402" width="460" height="462" frameX="-4" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="scared0004" x="1401" y="1402" width="458" height="462" frameX="-5" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="scared0005" x="1401" y="1402" width="458" height="462" frameX="-5" frameY="0" frameWidth="467" frameHeight="462"/>
+</TextureAtlas>

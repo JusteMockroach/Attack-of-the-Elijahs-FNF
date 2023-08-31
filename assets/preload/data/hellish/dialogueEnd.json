@@ -1,31 +1,171 @@
 {
 	"dialogue": [
 		{
-			"expression": "shook",
-			"text": "This is a test to see if end dialogue works on a script build.",
+			"expression": "confused",
+			"text": "I....LOST.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "eli"
-		},
-		{
-			"expression": "hmm",
-			"text": "This is not final dialogue.",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "eli"
-		},
-		{
-			"expression": "worried",
-			"text": "The actual dialogue will be way more gay.",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "eli"
+			"portrait": "heli",
+			"speed": 0.1
 		},
 		{
 			"expression": "talk",
-			"text": "lmao.",
+			"text": "THEN...SUMMONER... HAS WON.",
+			"boxState": "normal",
+			"portrait": "heli",
+			"speed": 0.08
+		},
+		{
+			"expression": "confused",
+			"text": "WHAT ARE.... YOUR ORDERS?",
+			"boxState": "normal",
+			"portrait": "heli",
+			"speed": 0.05
+		},
+		{
+			"expression": "sad",
+			"text": "Wha? Huh??",
 			"boxState": "normal",
 			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "hmm",
+			"text": "Guess he thinks I have complete control over him?",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "*yawn*",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "hmm",
+			"text": "Hmm... What to do...",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "hmm",
+			"text": "Well... If this guy's under my order...",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "angry",
+			"text": "HEY! ELIJAH!",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "???",
+			"boxState": "normal",
+			"portrait": "heli",
+			"speed": 0.05
+		},
+		{
+			"expression": "hmm",
+			"text": "I'm actually really tired right now.",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "worried",
+			"text": "Can you take me home so I can nap?",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "....",
+			"boxState": "normal",
+			"portrait": "heli",
+			"speed": 0.05
+		},
+		{
+			"expression": "worried",
+			"text": "(I hope that registered...)",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Coolswag, i'm just gonna lay down and I'll wake up at home.",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": ".........",
+			"boxState": "normal",
+			"portrait": "heli",
+			"speed": 0.05
+		},
+		{
+			"expression": "crossed",
+			"text": "..........",
+			"boxState": "normal",
+			"portrait": "heli",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "It seems...",
+			"boxState": "normal",
+			"portrait": "heli",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "The summonner has fallen asleep.",
+			"boxState": "normal",
+			"portrait": "heli",
+			"speed": 0.05
+		},
+		{
+			"expression": "unamused",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "elijah",
+			"speed": 0.05
+		},
+		{
+			"expression": "unamused",
+			"text": "Idiot.",
+			"boxState": "normal",
+			"portrait": "elijah",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Very well.",
+			"boxState": "normal",
+			"portrait": "elijah",
+			"speed": 0.05
+		},
+		{
+			"expression": "unamused",
+			"text": "Orders are orders.",
+			"boxState": "normal",
+			"portrait": "elijah",
+			"speed": 0.05
+		},
+		{
+			"expression": "thinking",
+			"text": "(Still can't believe I lost to them...)",
+			"boxState": "normal",
+			"portrait": "elijah",
 			"speed": 0.05
 		}
 	]

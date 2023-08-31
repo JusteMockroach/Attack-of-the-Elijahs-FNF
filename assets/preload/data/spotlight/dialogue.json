@@ -1,0 +1,244 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Okay where the fuck is Eliahs?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He said he'd meet us outside of V.I.P."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "df",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "He most likey ditched you."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "df",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who the fuck remembers someone they only met a week ago?"
+		},
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "awe",
+			"text": "ME."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I do."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "df",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "Besides you."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eliahs",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Eli!! Elijah!! over here!"
+		},
+		{
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "shook",
+			"text": "Woah..."
+		},
+		{
+			"sound": "",
+			"speed": 0.075,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "shook",
+			"text": "(blushing) You're....pretty...."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eliahs",
+			"boxState": "normal",
+			"expression": "scared",
+			"text": "Huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "P-PRETTY MERCH!! T-that's what I meant!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eliahs",
+			"boxState": "normal",
+			"expression": "sorry",
+			"text": "Dude, It's your merch."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "df",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "(smiling) Heh."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eliahs",
+			"boxState": "normal",
+			"expression": "chill",
+			"text": "Anyway! I'm here! Let's go see YUNG B.A.T!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(blank) They go in and see funny bat."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "izzy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yo! Eliahs! Nice seeing you on the stage for once!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "izzy",
+			"boxState": "normal",
+			"expression": "stern",
+			"text": "Who are those two with you?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eliahs",
+			"boxState": "normal",
+			"expression": "chill",
+			"text": "This is Eli and Elijah, you met them a week ago at the mall."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "awe",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "df",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "'Sup."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "izzy",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Is little buddy gonna be okay?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "df",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "They will, they're just an idiot."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "izzy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, he seems to be hyped up. Let's hype him up some more!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "df",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "Oh hell."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "izzy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yo, little buddy, how'd you like to rap on stage right now?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "shook",
+			"text": "F-for real?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "eli",
+			"boxState": "normal",
+			"expression": "awe",
+			"text": "I'd love that so fucking much dude you have no clue how much i'd love this this has been my fucking dream for ages and you're handing it to me on a silver platter? this is amazing. this is awesome. holy shit."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "izzy",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uh, Coolswag."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "izzy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well then, Let's get this show on the damn road!"
+		}
+	]
+}

@@ -1237,7 +1237,7 @@ class PlayState extends MusicBeatState
 				case 'cursed-slippin' | 'take-over' | 'dense':
 					startDialogue(dialogueJson, 'neko' );
 					
-				case 'rush' | 're-match' | 'ultra' :
+				case 'rush' | 'spotlight' | 're-match' | 'ultra' :
 					startDialogue(dialogueJson, 'parappa' );
 
 				default:

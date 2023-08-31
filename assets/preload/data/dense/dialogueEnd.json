@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "scared",
+			"text": "Wow, that was way better than expected...",
+			"boxState": "normal",
+			"portrait": "eliahs",
+			"speed": 0.05
+		},
+		{
+			"expression": "scared",
+			"text": "Thank you, Eli.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eliahs"
+		},
+		{
+			"expression": "talk",
+			"text": "No problem dude!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "sorry",
+			"text": "I have to make it up to you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eliahs"
+		},
+		{
+			"expression": "talk",
+			"text": "I got a couple extra V.I.P tickets for Yung B.A.T's show next week.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eliahs"
+		},
+		{
+			"expression": "chill",
+			"text": "Percs of being friends with a rapper.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eliahs"
+		},
+		{
+			"expression": "talk",
+			"text": "You wanna come?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eliahs"
+		},
+		{
+			"expression": "awe",
+			"text": "YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES!!!!!",
+			"boxState": "normal",
+			"speed": 0.00500000000000001,
+			"portrait": "eli"
+		},
+		{
+			"expression": "awe",
+			"text": "Elijah, buddy, we have to go!!",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "eli"
+		},
+		{
+			"expression": "unamused",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "df"
+		},
+		{
+			"expression": "unamused",
+			"text": "Sure, okay.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "df"
+		},
+		{
+			"expression": "awe",
+			"text": "Then it's set! We can all meet up outside the venue!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eli"
+		},
+		{
+			"expression": "chill",
+			"text": "Alright! See you then!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eliahs"
+		}
+	]
+}

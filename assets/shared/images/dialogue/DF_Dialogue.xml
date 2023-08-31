@@ -2,36 +2,52 @@
 <TextureAtlas imagePath="DF_Dialogue.png">
 	<!-- Created with Adobe Animate version 20.5.1.31044 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Neutral0000" x="10" y="10" width="391" height="449" frameX="-11" frameY="-1" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Neutral0001" x="10" y="10" width="391" height="449" frameX="-11" frameY="-1" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Neutral0002" x="411" y="10" width="400" height="445" frameX="-5" frameY="-4" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Neutral0003" x="411" y="10" width="400" height="445" frameX="-5" frameY="-4" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Neutral0004" x="821" y="10" width="404" height="447" frameX="-2" frameY="-2" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Neutral0005" x="821" y="10" width="404" height="447" frameX="-2" frameY="-2" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Neutral0006" x="1235" y="10" width="405" height="448" frameX="-1" frameY="-1" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Neutral0007" x="1235" y="10" width="405" height="448" frameX="-1" frameY="-1" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Neutral0008" x="1650" y="10" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Neutral0009" x="1650" y="10" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Neutral0010" x="2066" y="10" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Neutral0011" x="2482" y="10" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Unamused0000" x="2898" y="10" width="391" height="449" frameX="-11" frameY="-1" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Unamused0001" x="2898" y="10" width="391" height="449" frameX="-11" frameY="-1" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Unamused0002" x="3299" y="10" width="400" height="445" frameX="-5" frameY="-4" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Unamused0003" x="3299" y="10" width="400" height="445" frameX="-5" frameY="-4" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Unamused0004" x="10" y="469" width="404" height="447" frameX="-2" frameY="-2" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Unamused0005" x="10" y="469" width="404" height="447" frameX="-2" frameY="-2" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Unamused0006" x="424" y="469" width="405" height="448" frameX="-1" frameY="-1" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Unamused0007" x="424" y="469" width="405" height="448" frameX="-1" frameY="-1" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Unamused0008" x="839" y="469" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Unamused0009" x="839" y="469" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Unamused0010" x="1255" y="469" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="Unamused0011" x="1671" y="469" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
-	<SubTexture name="elijahneutral0000" x="2087" y="469" width="406" height="449"/>
-	<SubTexture name="elijahneutral0001" x="2503" y="469" width="406" height="449"/>
-	<SubTexture name="elijahneutral0002" x="2503" y="469" width="406" height="449"/>
-	<SubTexture name="elijahneutral0003" x="2087" y="469" width="406" height="449"/>
-	<SubTexture name="elijahunamused0000" x="2919" y="469" width="406" height="449"/>
-	<SubTexture name="elijahunamused0001" x="3335" y="469" width="406" height="449"/>
-	<SubTexture name="elijahunamused0002" x="3335" y="469" width="406" height="449"/>
-	<SubTexture name="elijahunamused0003" x="2919" y="469" width="406" height="449"/>
+	<SubTexture name="Happy0000" x="4" y="4" width="391" height="449" frameX="-11" frameY="-1" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Happy0001" x="4" y="4" width="391" height="449" frameX="-11" frameY="-1" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Happy0002" x="399" y="4" width="400" height="445" frameX="-5" frameY="-4" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Happy0003" x="399" y="4" width="400" height="445" frameX="-5" frameY="-4" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Happy0004" x="803" y="4" width="404" height="447" frameX="-2" frameY="-2" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Happy0005" x="803" y="4" width="404" height="447" frameX="-2" frameY="-2" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Happy0006" x="1211" y="4" width="405" height="448" frameX="-1" frameY="-1" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Happy0007" x="1211" y="4" width="405" height="448" frameX="-1" frameY="-1" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Happy0008" x="1620" y="4" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Happy0009" x="1620" y="4" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Happy0010" x="2030" y="4" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Happy0011" x="2440" y="4" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Neutral0000" x="2850" y="4" width="391" height="449" frameX="-11" frameY="-1" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Neutral0001" x="2850" y="4" width="391" height="449" frameX="-11" frameY="-1" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Neutral0002" x="3245" y="4" width="400" height="445" frameX="-5" frameY="-4" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Neutral0003" x="3245" y="4" width="400" height="445" frameX="-5" frameY="-4" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Neutral0004" x="803" y="4" width="404" height="447" frameX="-2" frameY="-2" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Neutral0005" x="803" y="4" width="404" height="447" frameX="-2" frameY="-2" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Neutral0006" x="3649" y="4" width="405" height="448" frameX="-1" frameY="-1" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Neutral0007" x="3649" y="4" width="405" height="448" frameX="-1" frameY="-1" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Neutral0008" x="4" y="457" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Neutral0009" x="4" y="457" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Neutral0010" x="414" y="457" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Neutral0011" x="824" y="457" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Unamused0000" x="1234" y="457" width="391" height="449" frameX="-11" frameY="-1" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Unamused0001" x="1234" y="457" width="391" height="449" frameX="-11" frameY="-1" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Unamused0002" x="1629" y="457" width="400" height="445" frameX="-5" frameY="-4" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Unamused0003" x="1629" y="457" width="400" height="445" frameX="-5" frameY="-4" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Unamused0004" x="2033" y="457" width="404" height="447" frameX="-2" frameY="-2" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Unamused0005" x="2033" y="457" width="404" height="447" frameX="-2" frameY="-2" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Unamused0006" x="2441" y="457" width="405" height="448" frameX="-1" frameY="-1" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Unamused0007" x="2441" y="457" width="405" height="448" frameX="-1" frameY="-1" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Unamused0008" x="2850" y="457" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Unamused0009" x="2850" y="457" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Unamused0010" x="3260" y="457" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="Unamused0011" x="3670" y="457" width="406" height="449" frameX="0" frameY="0" frameWidth="406" frameHeight="450"/>
+	<SubTexture name="elijahhappy0000" x="4" y="910" width="406" height="449"/>
+	<SubTexture name="elijahhappy0001" x="414" y="910" width="406" height="449"/>
+	<SubTexture name="elijahhappy0002" x="414" y="910" width="406" height="449"/>
+	<SubTexture name="elijahhappy0003" x="4" y="910" width="406" height="449"/>
+	<SubTexture name="elijahneutral0000" x="824" y="910" width="406" height="449"/>
+	<SubTexture name="elijahneutral0001" x="1234" y="910" width="406" height="449"/>
+	<SubTexture name="elijahneutral0002" x="1234" y="910" width="406" height="449"/>
+	<SubTexture name="elijahneutral0003" x="824" y="910" width="406" height="449"/>
+	<SubTexture name="elijahunamused0000" x="1644" y="910" width="406" height="449"/>
+	<SubTexture name="elijahunamused0001" x="2054" y="910" width="406" height="449"/>
+	<SubTexture name="elijahunamused0002" x="2054" y="910" width="406" height="449"/>
+	<SubTexture name="elijahunamused0003" x="1644" y="910" width="406" height="449"/>
 </TextureAtlas>

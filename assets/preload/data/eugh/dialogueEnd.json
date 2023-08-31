@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "unamused",
+			"text": "Alright.",
+			"boxState": "normal",
+			"portrait": "elijah",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "No more games.",
+			"boxState": "normal",
+			"portrait": "elijah",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "We're doing things...",
+			"boxState": "normal",
+			"portrait": "elijah",
+			"speed": 0.05
+		},
+		{
+			"expression": "crossed",
+			"text": "M Y     W A Y.",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "heli"
+		},
+		{
+			"expression": "sad",
+			"text": "Wh-",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "shook",
+			"text": "H-HUH?? WHAT!?",
+			"boxState": "normal",
+			"portrait": "eli",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "FINAL. ROUND.",
+			"boxState": "normal",
+			"portrait": "heli",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "WINNER. TAKES. ALL.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "heli"
+		}
+	]
+}
